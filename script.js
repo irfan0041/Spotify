@@ -201,13 +201,13 @@ const songs = [
         title: "kannae kanmaniye",
         artist: "Unknown",
         url: "https://res.cloudinary.com/dljvgj4rc/video/upload/v1781238602/Kannae_Kanmaniye_yg5bxm.mp3",
-        cover: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&q=80"
+         cover: "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500&q=80"
     },
      {
         title: "Sidu Sidu",
         artist: "Unknown",
         url: "https://res.cloudinary.com/dljvgj4rc/video/upload/v1781238605/Sidu_Sidu_zxjprc.mp3",
-        cover: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&q=80"
+       cover: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=500&q=80"
     },
     {     
         title: "Adaavadi",
